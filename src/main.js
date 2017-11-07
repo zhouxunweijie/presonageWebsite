@@ -5,7 +5,7 @@ require("./assets/css/reset.css");
 require("../node_modules/bootstrap/dist/css/bootstrap.min.css")
 import axios from "axios";
 
-import ElementUI from "element-ui";
+import ElementUI from "element-ui";  //饿了吗vue 组件
 import "../node_modules/element-ui/lib/theme-default/index.css";
 Vue.use(ElementUI);
 
